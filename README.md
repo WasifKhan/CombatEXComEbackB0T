@@ -1,2 +1,3 @@
 # CombatEX
-Source code of the CombatEX AI bot
+
+**This repository contains the source code for CombatEX Bot**
